@@ -1,3 +1,5 @@
+PROJECT ON HALT
+
 A program for computing the best possible initial time, place and velocity for a launch of an object from one stellar object to the other in a solar system. The program works using Newton's mechanics.
 
 Features:
